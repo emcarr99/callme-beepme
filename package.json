@@ -1,0 +1,25 @@
+{
+  "name": "callme-beepme",
+  "version": "1.0.0",
+  "description": "A NoSQL social network API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^7.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emcarr99/callme-beepme"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emcarr99/callme-beepme"
+  },
+  "homepage": "https://github.com/emcarr99/callme-beepme"
+}
